@@ -19,7 +19,7 @@ or build a docker container from the provided Dockerfile:
 The script needs to know your E-Mail and Password for Microsoft rewards (Automatic 2FA is not supported). 
 You can provide this information through the environment variables `REWARDS_ACC_EMAIL` and `REWARDS_ACC_PASS`
 
-# Running
+## Running
 
 Either run the main script directly through poetry:
 ```
